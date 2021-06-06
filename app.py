@@ -1,5 +1,5 @@
 import streamlit as st
-import nltk
+import nltk 
 import joblib
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 st.title('Sentiment analysis')
