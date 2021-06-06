@@ -1,1 +1,1 @@
-# news--sentiment
+Sentiment-Analysis Machine Learning Major Project
