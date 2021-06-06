@@ -1,5 +1,6 @@
 import streamlit as st
 import nltk
+import joblib
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 st.title('Sentiment analysis')
 user_input = st.text_input("Please enter your text")
